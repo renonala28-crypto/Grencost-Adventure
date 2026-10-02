@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320">
+  <defs><linearGradient id="a" x2="0" y2="1"><stop stop-color="#c9d2bd"/><stop offset="1" stop-color="#75876b"/></linearGradient></defs>
+  <path fill="url(#a)" d="M0 0h480v320H0z"/><path fill="#91a087" d="m0 205 111-96 83 73 91-91 195 143v86H0z"/><path fill="#526c50" d="m0 245 129-80 100 81 117-96 134 86v84H0z"/>
+  <g fill="none" stroke="#e9e8d8" stroke-width="2" opacity=".65"><path d="M0 55q90 36 174-4t162 0 144 3"/><path d="M0 72q90 36 174-4t162 0 144 3"/></g>
+  <g transform="translate(189 92)"><path fill="#8d684b" d="M27 35c0-18 13-31 32-31s32 13 32 31v19H27z"/><path fill="#b28158" d="M22 50h75l16 108H7z"/><path fill="#d4c5a4" d="M48 55h23l10 103H39z"/><path fill="none" stroke="#f0e9da" stroke-width="4" d="M29 89h63m-67 28h71"/></g>
+  <path fill="#fff" fill-opacity=".84" d="M0 271h480v49H0z"/><text x="18" y="293" fill="#213825" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">PLACEHOLDER · GANTI FOTO ASLI</text><text x="18" y="309" fill="#52664f" font-family="Arial,sans-serif" font-size="9">Ilustrasi perlengkapan outdoor</text>
+</svg>
